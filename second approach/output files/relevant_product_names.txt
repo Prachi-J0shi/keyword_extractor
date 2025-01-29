@@ -1,0 +1,4646 @@
+[
+  {
+    "description": "spirulina powder 16 drums spirulina powder part 140610",
+    "quantity": "16 drums",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder1kgx5pouchbatch no mi spip 00923",
+    "quantity": "1kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "600kgs chlorella and spirulina tablet 250mg po no ftp 7399 hs 2102 20",
+    "quantity": "600kg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "blue microfine se spirulina extract coloring",
+    "quantity": "",
+    "name": [
+      "spirulina extract coloring",
+      "spirulina extract coloring powder",
+      "spirulina extract coloring 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 50 grams november 2023 november 2025 no lys20231109 cas number 724424 92 bluetec naturals raw materials used in function 100",
+    "quantity": "50 g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract powder 50 grams october 21 2023 24 months no lypp231021 cas number 11016 15 bluetec naturals raw materials used in functional products products 100",
+    "quantity": "50 g",
+    "name": [
+      "spirulina extract powder",
+      "spirulina extract powder powder",
+      "spirulina extract powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder spirulina powder no mi spip 00723 exp month nov 2025",
+    "quantity": "",
+    "name": [
+      "spirulina powder spirulina",
+      "spirulina powder spirulina powder",
+      "spirulina powder spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "herbal supplements spirulina capsules",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder chlorella powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder chlorella",
+      "spirulina powder chlorella powder",
+      "spirulina powder chlorella 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract phycocyanin powerwith maltodextrin no pnfl230019 manufacturing dt dec 23",
+    "quantity": "",
+    "name": [
+      "spirulina extract phycocyanin",
+      "spirulina extract phycocyanin powder",
+      "spirulina extract phycocyanin 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder no sp 230511 20 box",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder organic no sp 230330",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "ingredients spirulina powder part spirulina powder scientific name spirulina platensis protein 60 25kg barrel mh spp 231012 nsx 12 october 2023 october 11 2025 100",
+    "quantity": "25kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablets diet supplement",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract",
+    "quantity": "",
+    "name": [
+      "spirulina extract",
+      "spirulina extract powder",
+      "spirulina extract 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder organic chlorella po wder this shipment no solid wood pac king material fda facility registration 10443416316",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder seaweed",
+    "quantity": "",
+    "name": [
+      "spirulina powder seaweed",
+      "spirulina powder seaweed powder",
+      "spirulina powder seaweed 1000kgs"
+    ]
+  },
+  {
+    "description": "5000 00 bottles name dxn dxn spirulina capsule 90s 1ctn 250bttlsx90pcsx350mg",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tiens box 80 bottles quantity 100 capsules supplements tianshi spirulina capsules spirulina capsule registration pne 1466 internal a08",
+    "quantity": "80 bottles",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "nutriorg spirulina powder 100g",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "plant extract organic spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 100 lut no ad320323001474r",
+    "quantity": "100 l",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder spirulina for dietary complement",
+    "quantity": "",
+    "name": [
+      "spirulina powder spirulina",
+      "spirulina powder spirulina powder",
+      "spirulina powder spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 250mg organic chlore lla tablet 250mg organic spirulina powder org anic spirulina tablet 500mg",
+    "quantity": "250mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules supplement 107pcs",
+    "quantity": "107pcs",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder sb1sd23021 60 cartons packed in pallets",
+    "quantity": "60 cartons",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "capsules of health supplements on spirulina capsule 120 capsules",
+    "quantity": "120 capsules",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "5600 00 bottles name dxn dxn spirulina capsule 30s 1ctn 400bttlsx30pcsx350mg",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules contract mfg ing kraft60caps 100 pouch pr sppc 0124 exp dec2025",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder grade",
+    "quantity": "",
+    "name": [
+      "spirulina powder grade",
+      "spirulina powder grade powder",
+      "spirulina powder grade 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina dust andes spirulina student cases 5kg in cardboard 004 natural of nutritional supplement spirulina powder box 20 2312344 expiration 12 2025 spiadhadh0121sanives",
+    "quantity": "5kg",
+    "name": [
+      "spirulina powder box",
+      "spirulina powder box powder",
+      "spirulina powder box 1000kgs"
+    ]
+  },
+  {
+    "description": "health care tianshi spirulina capsules health care tianshi spirulina capsules tp spirulina powder january 2026 100 vn",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 27 fibrotambores contained in pallet presented in 27 pastes drum of 25 sp 63 fab 12 2023 vcto 12 2023 spirulina powder sanipes certificate 00543 2024 dr 2024029929",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina dead spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "aquatic feed supplement spirulina powder 25 drums no animal products 100",
+    "quantity": "25 drums",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "dxn spirulina tablet 500 1200 bottles in 80 ctn supplement with essential packing 2088 kgs",
+    "quantity": "1200 bottles",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder sb1sd23021",
+    "quantity": "",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "dxn spirulina tablet 120 1200 bottles in 400 ctn supplement with essential packing 60 kgs",
+    "quantity": "1200 bottles",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "15840 00 bottles name dxn dxn spirulina tablet 120s",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "5000kgs spirulina powder dc grade part no 10 1703 in 25kgs drum total200 drums 150 0kgs vitamin b1 thiamine hcl dc 97 part no 01835 packing 25kgs drum total60drums price terms cif sea vancouver no 200679",
+    "quantity": "5000kg",
+    "name": [
+      "spirulina powder dc",
+      "spirulina powder dc powder",
+      "spirulina powder dc 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powderorganic chlorella pow der",
+    "quantity": "",
+    "name": [
+      "spirulina powderorganic",
+      "spirulina powderorganic powder",
+      "spirulina powderorganic 1000kgs"
+    ]
+  },
+  {
+    "description": "plant extract organic spirulina powder organi astragalus",
+    "quantity": "",
+    "name": [
+      "spirulina powder organi",
+      "spirulina powder organi powder",
+      "spirulina powder organi 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder quantity 15 kgs ctn 100 scientific name yeast mannoproteins",
+    "quantity": "15 kg",
+    "name": [
+      "spirulina powder quantity",
+      "spirulina powder quantity powder",
+      "spirulina powder quantity 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 200gm",
+    "quantity": "200g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powderorganic chlorella pow der broken cell methyl sulfonyl methane 20 mesh",
+    "quantity": "",
+    "name": [
+      "spirulina powderorganic",
+      "spirulina powderorganic powder",
+      "spirulina powderorganic 1000kgs"
+    ]
+  },
+  {
+    "description": "4800 00 bottles name dxn dxn spirulina capsule 30s 1ctn400bttlssx30pcsx350mg",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder no ambps2302 of manufacturing 09 06 2023 of exp 08 06 2025",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "dietary supplements tianshi vitality softgeis tianshi chitosan capsules tianshi cordyceps capsules tianshi spirulina capsules",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "raw materials for herbal medicine spirulina powder sb1sf23034",
+    "quantity": "",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "chlorella powder spirulina powder organic chl orella powder organic spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "blue spiruline powder type naturebrite bold blue spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 1box",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "kgs spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500 stl23042 sta24001 sta24002 sta24003 sta24004",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 8000kgs this shipment no solid wood packing material tel 86 22 58895555 email lijh pdon cn",
+    "quantity": "8000kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract capsules 500mg qty inbtl",
+    "quantity": "500mg",
+    "name": [
+      "spirulina extract capsules",
+      "spirulina extract capsules powder",
+      "spirulina extract capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "dxn spirulina capsule 30s",
+    "quantity": "",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet 60 tablets in hdpe other details as per document",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "700kgs stc 20kg drum organic spirulina powder",
+    "quantity": "700kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "dxn spirulina capsule 90s",
+    "quantity": "",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsule",
+    "quantity": "",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablets 500mg sta24006",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder pn number 240486477696 100g box sato spiritual powder gift 100 vn",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder pn",
+      "spirulina powder pn powder",
+      "spirulina powder pn 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina chlorella tablets organic hlorella powder organic spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract phycocyanin powder with trehalose no pnfa240001",
+    "quantity": "",
+    "name": [
+      "spirulina extract phycocyanin",
+      "spirulina extract phycocyanin powder",
+      "spirulina extract phycocyanin 1000kgs"
+    ]
+  },
+  {
+    "description": "plastic bag naturya spirulina powder 100g plastic bags fg ntf0009 dt 001 size w410xl290xg315 mm 100 vn",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "fg ntf0009 dt 001 plastic bag naturya spirulina powder 100g plastic bags fg ntf0009 dt 001 size w130xl210xg80 mm 100 vn",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder sb1sf23031 21 cartons packed in pallet",
+    "quantity": "21 cartons",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet 200mg sta24007",
+    "quantity": "200mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 450mg 120 count",
+    "quantity": "450mg",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract powder 650595 23 001 06 30 2022 12 30 2024 for the industry bright nblue spirulina extract powder 650595 74937 01 13 spirulina extract powder 650595 ipc 00192815",
+    "quantity": "",
+    "name": [
+      "spirulina extract powder",
+      "spirulina extract powder powder",
+      "spirulina extract powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder nutritional diet herbal products",
+    "quantity": "",
+    "name": [
+      "spirulina powder nutritional",
+      "spirulina powder nutritional powder",
+      "spirulina powder nutritional 1000kgs"
+    ]
+  },
+  {
+    "description": "do 13bogct01240153 order number purchase order ref 00460908932s4 internal access business group declaration 36 uts user b00236 and first quality merchandise import registration reg 50104588 20230711n approval 2023 07 11 effective 2024 01 10 approved vinvima 23 0079071 approval 2023 07 07 import registration priga reg 5010458 20230711n m01 approvement 2023 12 14 validity 2024 04 10 approval conversion 864 85 pesos col originary goods from the united states covered under certificate of origin without number with validity 12 31 2024 we accept the tariff benefit of the free trade agreement between colombia and the united states according to decree 0730 of april 13 2012 certificate of origin without number import registration 50104588 trade name complex dual release nutrilite ref 110170co2 other characteristics complex dual release dietary supplement with complex vitamins in dual release tablets composition each tablet spirulina powder arthrospira platensis complete algae and 75 00mg calcium dpantothenate equivalent to 20 of vitamin b5 or pantothenic acid 28 195mg niacinamide equivalent to 20 of vitamin b3 or niacinamide and 25 389mg pyridoxine hydrochloride equivalent to of vitamin b6 or pyridoxine acid and 444mg riboflavin vitamin b2 equivalent to of vitamin b2 or riboflavine and 694mg thiamin mononitrate valent to of vitamin b1 or thiamin and 392mg folic acid equivalent to of folic acid and 631mg biotin equivalent to 125 of biotin and 163mg cyanocobalamin equivalent to 006 of vitamin 12 or cyanocobalamin 00600mg dry yeast granulate saccharomyces cerevisiae and 90 000mg type of packaging commercial white high density potiethylene hdpe with polypropylene pp lid with two piece white closure and total passage orifice for 60 tablets dietary supplement shelf life 24 months from the of manufacture proclaims vitamin b1 and thiamin is necessary to obtain energy from carbohydrates resolution 3096 of 2007 vitamin b2 and riboflavin is necessary to obtain energy from proteins fats and carbohydrates resolution 3096 of 2007 niacin is necessary for obtaining energy from proteins fats and carbohydrates resolution 3096 of 2007 vitamin b12 cyanocobalamlna is necessary for production of red cells folic acid is essential for the growth and division of cells resolution 3096 of 2007 includes complex which helps you get the energy you need from approved in minute no 10 of october 15 2015 vitamin b2 and riboflavin necessary to maintain the integrity of the skin and mucosa approved in minute no 14 of november 10 2010 pharmaceutical extended release tablet health registration sd2018 0004312 expiration 2028 12 18 file 20112106 access business group llc address buena park country united states of america according to invoice nutrilite vitamin complex 60s number 32358a4a mfg 08 23 2023 08 23 2025 3262ggna mfg 09 19 2023 09 19 2025 declared amount 308 81 kilogram quantity invoiced 5920 units",
+    "quantity": "00mg",
+    "name": [
+      "spirulina powder arthrospira",
+      "spirulina powder arthrospira powder",
+      "spirulina powder arthrospira 1000kgs"
+    ]
+  },
+  {
+    "description": "spiruline powder sp0220231006 of prodcc 2023 10 06 exp 2025 10 05 spirulina powder inputs for the industry",
+    "quantity": "",
+    "name": [
+      "spirulina powder inputs",
+      "spirulina powder inputs powder",
+      "spirulina powder inputs 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder sb1sf23034 21 cartons packed in pallet",
+    "quantity": "21 cartons",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablets 400 p2stnk2234",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "do 902401537 001 order process imp 2403 declaration 10 first quality goods we refer to decree number 1881 of 2021 ministry of trade industry and tourism article chapter 12 registration ro de imprtation reg 50013070 20240124n with approval 2024 01 24 effective 2024 07 23 approved ica no vizs 24 00869 with approval 2024 01 19 approved mjd no vmjd 2024 00465 with approval 2024 01 17 approved invima no vinvima 24 0009264 with approval 2024 01 24 invoice sp 002290 2023 12 21 spirulina powder botanical name arthrospira platensis cas 724424 92 drum x25kg conservation state ambient temperature raw material to be marketed and used in the industry unbranded industrially dry transformation process name of inner mongolia rejuve biotech co ltd country of origin china qty 1100",
+    "quantity": "92 drum",
+    "name": [
+      "spirulina powder botanical",
+      "spirulina powder botanical powder",
+      "spirulina powder botanical 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina extract phycocyaninpowder with maltodextrin",
+    "quantity": "",
+    "name": [
+      "spirulina extract phycocyaninpowder",
+      "spirulina extract phycocyaninpowder powder",
+      "spirulina extract phycocyaninpowder 1000kgs"
+    ]
+  },
+  {
+    "description": "do 13bogct02240003 order number purchase order ref 00460909945s4 internal access business group declaration 20 uts user b00236 and first quality merchandise import registration reg 50104588 20230711n approval 2023 07 11 effective 2024 01 10 approved vinvima 23 0079071 approval 2023 07 07 import registration priga reg 5010458 20230711n m01 approval 2023 12 14 validity 2024 04 10 approval conversion 900 50 pesos col originary goods from the united states covered under certificate of origin without number with validity 12 31 2024 we accept the tariff benefit of the free trade agreement between colombia and the united states according to decree 0730 of april 13 2012 certificate of origin without number import registration 50104588 trade name complex dual release nutrilite ref 110170co2 other characteristics complex dual release dietary supplement with complex vitamins in dual release tablets composition each tablet spirulina powder arthrospira platensis complete algae and 75 00mg calcium dpantothenate equivalent to 20 of vitamin b5 or pantothenic acid 28 195mg niacinamide equivalent to 20 of vitamin b3 or niacinamide and 25 389mg pyridoxine hydrochloride equivalent to of vitamin b6 or pyridoxine acid and 444mg riboflavin vitamin b2 equivalent to of vitamin b2 or riboflavine and 694mg thiamin mononitrate valent to of vitamin b1 or thiamin and 392mg folic acid equivalent to of folic acid and 631mg biotin equivalent to 125 of biotin and 163mg cyanocobalamin equivalent at 006 of vitamin 12 or cyanocobalamin 00600mg dry yeast granulate saccharomyces cerevisiae and 90 000mg type of packaging commercial white high density potiethylene hdpe with polypropylene pp lid with two piece white closure and total passage orifice for 60 tablets dietary supplement useful life 24 months from the of manufacture proclamation vitamin b1 and thiamin is necessary to obtain energy from carbohydrates resolution 3096 of 2007 vitamin b2 and riboflavin is necessary to obtain energy from proteins fats and carbohydrates resolution 3096 of 2007 niacin is necessary for obtaining energy from proteins fats and carbohydrates resolution 3096 of 2007 vitamin b12 cyanocobalamlna is necessary for production of red cells folic acid is essential for the growth and division of cells resolution 3096 of 2007 includes complex which helps you get the energy you need from approved in minute no 10 of october 15 2015 vitamin b2 and riboflavin necessary to maintain the integrity of the skin and mucosa approved in minute no 14 of november 10 2010 pharmaceutical extended release tablet health registration sd2018 0004312 expiration 2028 12 18 file 20112106 access business group llc address buena park country united states of america according to invoice nutrilite vitamin complex 60s number 3262ggna mfg 09 19 2023 09 19 2025 declared quantity 16 69 kilogram quantity invoiced 320 units",
+    "quantity": "00mg",
+    "name": [
+      "spirulina powder arthrospira",
+      "spirulina powder arthrospira powder",
+      "spirulina powder arthrospira 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500 sta24008 54 cartons packed in pallet",
+    "quantity": "54 cartons",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder huacheng bio 12 paper drums",
+    "quantity": "",
+    "name": [
+      "spirulina powder huacheng",
+      "spirulina powder huacheng powder",
+      "spirulina powder huacheng 1000kgs"
+    ]
+  },
+  {
+    "description": "do bogi0214514 001 order processing id 19853 declaration partial no goods located in flash logistics warehouse free zone intexzona km via siberia funza winery no cota cundinamarca import registration no reg 50163708 20231018n 2023 10 18 health registration sd2014 0003405 validity 2024 12 18 file 20080547 invoice 23hj 019 2023 07 01 description according to invoice spirulina tablet 550mg 100pcs bolttle 100bottles carton spirulina 550 composition spirulina powder 98 excipients magnesium stearate and silicon dioxide packaging type pp pill with aluminum pe linner and plastic lid for 100 tablets packaging color amber hilda strauss qty 19200 bottles cp23017 qty 19 200 fab 06 10 2023 vto 06 10 2025",
+    "quantity": "550mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablets chlorella tablets chlor ella powder",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 100g",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "health protection deep sea spirulina tablets deep ocean water spirulina blend 300g 1500tab 1500 tablets box january 16 2027 cb number 1155 2019 dksp 100",
+    "quantity": "300g",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder organic",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 100u 0196 ed feb 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 1000 capsules per pouch",
+    "quantity": "1000 capsules",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "concentrated spirulina powder coloring clouring concentrate spirulin powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder coloring",
+      "spirulina powder coloring powder",
+      "spirulina powder coloring 1000kgs"
+    ]
+  },
+  {
+    "description": "medicaments of ayurvedic system spirulina capsule",
+    "quantity": "",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "health protection providing vitamins minerals enhancing health supporting digestion mk spirulina tablets 100 spirulina 2300 tablets box mk spirulina tablets 2300 tablets 100",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder spirulina uspbatch sb1sg23042 lc 296724010124dated 15 02 2024",
+    "quantity": "23042 l",
+    "name": [
+      "spirulina powder spirulina",
+      "spirulina powder spirulina powder",
+      "spirulina powder spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 100g pouch",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 250mg stj23028",
+    "quantity": "250mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500mg sta24008 stb24009 stb24010 stb24011 stb24012",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powderpack in 1kg",
+    "quantity": "1kg",
+    "name": [
+      "spirulina powderpack",
+      "spirulina powderpack powder",
+      "spirulina powderpack 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder propionyl carnitine hcl",
+    "quantity": "",
+    "name": [
+      "spirulina powder propionyl",
+      "spirulina powder propionyl powder",
+      "spirulina powder propionyl 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder organic chlorella powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablets organic chlorella ablets",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "mrm nutrition spirulina powder oz 240 1ea",
+    "quantity": "",
+    "name": [
+      "spirulina powder oz",
+      "spirulina powder oz powder",
+      "spirulina powder oz 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powderbatch no sp200908",
+    "quantity": "",
+    "name": [
+      "spirulina powderbatch",
+      "spirulina powderbatch powder",
+      "spirulina powderbatch 1000kgs"
+    ]
+  },
+  {
+    "description": "the spirulina capsule scck 01 60 pcs",
+    "quantity": "60 pcs",
+    "name": [
+      "spirulina capsule scck",
+      "spirulina capsule scck powder",
+      "spirulina capsule scck 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablets no nt24003 manufacturing dt 01 2024 exp dt 12 2026",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablets 500mg 016281 stb24013 150 cartons packed in pallets",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "saptamved natural spirulina capsules 200mg120 capsules plant based superfood supplement for men and women",
+    "quantity": "200mg",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder no osdlxzp2401 23",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract phycocyaninpowder with trehalose pnfb240006 manufacturing feb 2024",
+    "quantity": "",
+    "name": [
+      "spirulina extract phycocyaninpowder",
+      "spirulina extract phycocyaninpowder powder",
+      "spirulina extract phycocyaninpowder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet 500mg no stb 230629",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 60 caps 100 packs",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "1000 00 bottles name dxn name spirulina supplement capsule registered as supplement with no approved therapeutic claims dxn spirulina capsule 90s 1ctn250bttlsx90pcsx350mg",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "mrm nutrition spirulina powder 2pcs",
+    "quantity": "2pcs",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder kilograms",
+    "quantity": "",
+    "name": [
+      "spirulina powder kilograms",
+      "spirulina powder kilograms powder",
+      "spirulina powder kilograms 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract phycocyanin powderwith maltodextrin pnfa240002 pnfa240003 pnfa240004 pnfa240005",
+    "quantity": "",
+    "name": [
+      "spirulina extract phycocyanin",
+      "spirulina extract phycocyanin powder",
+      "spirulina extract phycocyanin 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 500 100 capsules api",
+    "quantity": "100 capsules",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder sb3og23056 sb1sg23037 sb1sh23045 sb3oh23053 sb3oh23054 sb3oh23057 sb3oi23055",
+    "quantity": "",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500mg no stb 220920",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder no sp 230326",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder sb1sh23049 lc 308524010452 dt 27 02 2024 raw materials for herbal medicine",
+    "quantity": "23049 l",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract powder 650595 24 001 01 20 2024 fv 01 19 2026 for the industry brightnblue spiruline extrac powder 650595 article 74937 01 13",
+    "quantity": "",
+    "name": [
+      "spirulina extract powder",
+      "spirulina extract powder powder",
+      "spirulina extract powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder huacheng bio 12 drums",
+    "quantity": "12 drums",
+    "name": [
+      "spirulina powder huacheng",
+      "spirulina powder huacheng powder",
+      "spirulina powder huacheng 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet dxn",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "clothing quilt sweater fragrance vitamins spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules supplement",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "dxn spirulina tablet 120 per 30 with essential packing per 50 supplement",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablets",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "dxn spirulina tablet 500 per 125 with essential packing per 174 supplement",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "plant extract organic spirulina powder organi wheat grass",
+    "quantity": "",
+    "name": [
+      "spirulina powder organi",
+      "spirulina powder organi powder",
+      "spirulina powder organi 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder no osp04202310 10 mt no osp0420231015 mt no osp0420231020 mt origin china by ceres gmbh cn bio 140",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "ingredients spirulina powder part spirulina powder scientific name spirulina platensis protein 60 25kg barrel mh spp 240226 nsx 26 february 2024 february 25 2026 100",
+    "quantity": "25kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet 1000mg stc24017 50 cartons packed in pallets",
+    "quantity": "1000mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder sb1sf23035 sb1sg23036 120 cartons packed in4 pallets",
+    "quantity": "120 cartons",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "green supplement spirulina tablets no ft218",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder organic chlorella ta",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder sb3oi23058",
+    "quantity": "",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "slac 10 pallets spirulina powder po 4502842903 hs 2102 20 0000 pallet box",
+    "quantity": "",
+    "name": [
+      "spirulina powder po",
+      "spirulina powder po powder",
+      "spirulina powder po 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet 500 no stb 240118 20 box",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "nltp spirulina powder en spirulina algae powder protective production material earthrise nutritionals llc number 20306 june 23 2022 june 22 2026 100 qcdg 20kg ct 3ct",
+    "quantity": "20kg",
+    "name": [
+      "spirulina powder en",
+      "spirulina powder en powder",
+      "spirulina powder en 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder powder 100 raw material for health production directly serving production at businesses nsx february 20 2024 february 19 2027",
+    "quantity": "",
+    "name": [
+      "spirulina powder powder",
+      "spirulina powder powder powder",
+      "spirulina powder powder 1000kgs"
+    ]
+  },
+  {
+    "description": "mixed juice 250ml pineapple apple cucumber spirulina powder formula foc 100 vn",
+    "quantity": "250ml",
+    "name": [
+      "spirulina powder formula",
+      "spirulina powder formula powder",
+      "spirulina powder formula 1000kgs"
+    ]
+  },
+  {
+    "description": "ingredients spirulina powder part spirulina powder scientific name spirulina platensis protein 60 25kg barrel mh spp 240314 nsx 14 march 2024 march 13 2026 100",
+    "quantity": "25kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 100u 0196 ed mar 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "ayurvedic herbal medicine dr veda spirulina capsule 60 capsules",
+    "quantity": "60 capsules",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "bag lunch box water thermo hand mixer organic spirulina powder seasoning animal chicks for children",
+    "quantity": "",
+    "name": [
+      "spirulina powder seasoning",
+      "spirulina powder seasoning powder",
+      "spirulina powder seasoning 1000kgs"
+    ]
+  },
+  {
+    "description": "california gold nutrition superfoods organic spirulina powder oz",
+    "quantity": "",
+    "name": [
+      "spirulina powder oz",
+      "spirulina powder oz powder",
+      "spirulina powder oz 1000kgs"
+    ]
+  },
+  {
+    "description": "muscletech protein forestleaf supplements liposomal nad rhamoph supplement organic spirulina powder micro ingredients",
+    "quantity": "",
+    "name": [
+      "spirulina powder micro",
+      "spirulina powder micro powder",
+      "spirulina powder micro 1000kgs"
+    ]
+  },
+  {
+    "description": "3000kgs stc 20kg drum organic spirulina tablet",
+    "quantity": "3000kg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "conventional spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "do bv28431 24 statement hydrolyzed collagen composition protein greater or equal to 90 humidity equal or less than ash equal or less than type of packaging 50 bags quantity contained 20kg each does not have physical aspect powder exclusive in the industry and the gastronomic sector health registration number nsa 0010524 2021 validity 05 20 2031 file number 20268391 name of the to be manufactured powdered based on soy protein with hydrolyzed collagen varieties hydrolyzed collagen variety hydrolyzed with betaglucans ganomderma lucidum variety hydrolyzed collagen with bovine colostrum variety hydrolyzed collagen with soy isoflavones variety hydrolyzed collagen with spirulina powder variety hydrolyzed collagen with lyophilized moringa leaves variety hydrolyzed collagen ado with freeze dried orange variety hydrolyzed collagen with freeze dried avocado variety 9collageno hydrolyzed with grape seeds",
+    "quantity": "20kg",
+    "name": [
+      "spirulina powder variety",
+      "spirulina powder variety powder",
+      "spirulina powder variety 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder sb1sh23049 lc 308524010452 dt 27 02 2024",
+    "quantity": "23049 l",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "the dem en 20 kilos spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "stevia spirulina extract sucralose red beet",
+    "quantity": "",
+    "name": [
+      "spirulina extract sucralose",
+      "spirulina extract sucralose powder",
+      "spirulina extract sucralose 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder sp0220231024 de 2023 10 24 de exp 2025 10 23 spirulina powder inputs for the industry",
+    "quantity": "",
+    "name": [
+      "spirulina powder sp",
+      "spirulina powder sp powder",
+      "spirulina powder sp 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder capsules 60 capsules 15 white no mi spic 0424exp march 2026",
+    "quantity": "60 capsules",
+    "name": [
+      "spirulina powder capsules",
+      "spirulina powder capsules powder",
+      "spirulina powder capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder cas 724 424 92 spirulina powder ingredient powder packaged 20kg barrel 20240110 production 01 2024 01 2027 100",
+    "quantity": "20kg",
+    "name": [
+      "spirulina powder cas",
+      "spirulina powder cas powder",
+      "spirulina powder cas 1000kgs"
+    ]
+  },
+  {
+    "description": "nutriorg spirulina powder 100g ctns",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "nutriorg spirulina powder 100g ctns x30 pcs 100 gms total 60 pcs",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "additive sky spirulina extract powder jsm inc 100",
+    "quantity": "",
+    "name": [
+      "spirulina extract powder",
+      "spirulina extract powder powder",
+      "spirulina extract powder 1000kgs"
+    ]
+  },
+  {
+    "description": "norland green spirulina capsules",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "do bogi0217115 001 order process id19853 declaration partialized goods 5th partial goods located in the intexzona free zone import registration reg 50163708 20231018n is presented approval 2023 10 18 validity 2024 04 17 vb invima vinvima 23 0123876 approval 2023 10 18 import registration modification reg 50163708 20231018n m01 approval 2024 04 22 validity 2024 07 16 approved invima no vinvima 24 0047483 of 2024 04 18 name of laboratory address country king dnarmsa spirulina co ltd xiapowe baidu village haikou india useful life years from the of manufacture dietary supplement health registration sd2014 0003405 validity 2024 12 18 file 20080547 single regulatory decree number 1074 of 2015 ministry of trade industry and tourism article and ss invoice 23hj 019 2023 07 01 spirulina 550 composition spirulina powder 98 excip",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "lf splin spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "kgs spirulina powder box 20 no 2401017 004",
+    "quantity": "",
+    "name": [
+      "spirulina powder box",
+      "spirulina powder box powder",
+      "spirulina powder box 1000kgs"
+    ]
+  },
+  {
+    "description": "pk120010468614 tiens tianshi spirulina capsule total 50 house each house 05 kgs",
+    "quantity": "05 kg",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "pk120010645608 tiens tianshi spirulina capsule total 63 house each house 10 total 630 bottles",
+    "quantity": "630 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "konjac gum crospovidone organic spirulina pow der nop standard organic spirulina powder no osp0420231010 package no 400drums crop 20 23 originchina by ceres gmbh cn",
+    "quantity": "400drums",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500mg stb24014 stb24015 stc24019 stc24020 stc24021 1150 ctns packed in 19 plts",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules andes spiruline 144 bottles in one ctn 007 natural for nutritional supplement spiruline 100 capsules 400 no 2404092 expiration 04 2026 sanitary pne",
+    "quantity": "144 bottles",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder andes spiruline aluminized covers 5kg in carton 004 natural for nutritional supplement spirulina powder box 20 no 2404092 expiration 04 2026 san",
+    "quantity": "5kg",
+    "name": [
+      "spirulina powder andes",
+      "spirulina powder andes powder",
+      "spirulina powder andes 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder medium chain triglyc eride powder berberine hydrochloride methyl ulfonyl methane vitamin d3 powder 100000iu alpha glycero phosphoryl choline phosphatid ylserine alpha lipoic acid vitamin b1 thiamin mononitrate brochure",
+    "quantity": "",
+    "name": [
+      "spirulina powder medium",
+      "spirulina powder medium powder",
+      "spirulina powder medium 1000kgs"
+    ]
+  },
+  {
+    "description": "shipper load and count 1x20st container arthrospira platensis hs 21022020 10 pallets slac of sp001 cyanobacteria spirulina dead spirulina powder spirulina bulk tablet pallet",
+    "quantity": "",
+    "name": [
+      "spirulina powder spirulina",
+      "spirulina powder spirulina powder",
+      "spirulina powder spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet drums",
+    "quantity": "",
+    "name": [
+      "spirulina tablet drums",
+      "spirulina tablet drums powder",
+      "spirulina tablet drums 1000kgs"
+    ]
+  },
+  {
+    "description": "pk120010680825 tiens tianshi spirulina capsule 102 house each house contain 05 bottles total 510 bottles",
+    "quantity": "05 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder shrimp feeds aquaculture products",
+    "quantity": "",
+    "name": [
+      "spirulina powder shrimp",
+      "spirulina powder shrimp powder",
+      "spirulina powder shrimp 1000kgs"
+    ]
+  },
+  {
+    "description": "do 13bogct04240008 order number purchase order ref 00460914436s4 internal access business group declaration 28 uts user b00236 and first quality merchandise import registration reg 50034709 20240228n approval 2024 02 28 effective 2024 08 27 approved vinvima 24 0025074 approval 2024 02 28 conversion factor 903 52 col pesos originating goods from the united states covered under certificate of origin without number with validity until 12 31 2024 we accept the tariff benefit of the free trade agreement between colombia and the united states according to decree 0730 of april 13 2012 import registration 50034709 trade name complex dual release nutrilite ref 110170co3 other characteristics complex dual release dietary supplement with complex vitamins in dual release tablets composition each tablet spirulina powder arthrospira platensis",
+    "quantity": "",
+    "name": [
+      "spirulina powder arthrospira",
+      "spirulina powder arthrospira powder",
+      "spirulina powder arthrospira 1000kgs"
+    ]
+  },
+  {
+    "description": "pk120010691913 tiens tianshi spirulina capsule 38 house each house contain 10 bottles total 380 bottles",
+    "quantity": "10 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder 2packages 60ctns",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder capsules contract mfg ing kraft 60 caps 200 packs",
+    "quantity": "",
+    "name": [
+      "spirulina powder capsules",
+      "spirulina powder capsules powder",
+      "spirulina powder capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract samples spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina extract samples",
+      "spirulina extract samples powder",
+      "spirulina extract samples 1000kgs"
+    ]
+  },
+  {
+    "description": "organic kale powder organic spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina spirulina powder extract e1 18",
+    "quantity": "",
+    "name": [
+      "spirulina powder extract",
+      "spirulina powder extract powder",
+      "spirulina powder extract 1000kgs"
+    ]
+  },
+  {
+    "description": "chlorella tablets chlorella powder spirulina tablets spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 425gm can 12 cans carton 25 cartons",
+    "quantity": "425g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder sb1sg23036",
+    "quantity": "",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "freeze dried spirulina powder arthrospira platensis pouch",
+    "quantity": "",
+    "name": [
+      "spirulina powder arthrospira",
+      "spirulina powder arthrospira powder",
+      "spirulina powder arthrospira 1000kgs"
+    ]
+  },
+  {
+    "description": "iga240425 order 003 24 declaration of invoice 2023tsbd 0353 12361 goods located in the intexona free zone line services warehouse warehouse import registration reg 50022103 20240207n 08 06 2024 vinvima 24 0016099 02 07 2024 does not require phytosanitary registration they are not industrially dried products partial packages 42 of 146 healthy tax law 2277 decree 0219 ultraprocessed edible products healthy tax does not apply health registration sd2018 0004234 02 19 2020 file 20133117 filing 20201032525 validity 07 30 2028 number of kilocalories null sodium calories 00 sodium in 100g 00 sugar 00 saturated fat 00 560 bottles tianshi spirulina capsules composition each hard capsule spirulin arthrospira pltensis 250mg type of packaging white high density polyethylene hdpe with white polypropylene pp screw cap with safety ring",
+    "quantity": "12361 g",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 100u 0196 ed may 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 100g 0116 ed may2026",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract alga",
+    "quantity": "",
+    "name": [
+      "spirulina extract alga",
+      "spirulina extract alga powder",
+      "spirulina extract alga 1000kgs"
+    ]
+  },
+  {
+    "description": "bag briefcase monochrome multibar spirulina tablets cream tennis",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "dead monocellular microorganisms spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "herbal natural spirulina powder bhau sile arkshala 27cnepm5864r1z1 bsa 027 24 25 dt 08 05 2024",
+    "quantity": "",
+    "name": [
+      "spirulina powder bhau",
+      "spirulina powder bhau powder",
+      "spirulina powder bhau 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder no sb3of23045 40 cartons packed in pallets",
+    "quantity": "40 cartons",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "nlsx beverage organic spirulina powder organic spirulina powder 100",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract spirulina powder spirulina maxima extracted from spirulina powdered energy used to produce delicious beejuvit health cb 7221 2018 dksp s029 s60000 g0034 240328 nsx 03 2024 hd 03 2026 100",
+    "quantity": "60000 g",
+    "name": [
+      "spirulina extract spirulina",
+      "spirulina extract spirulina powder",
+      "spirulina extract spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "edmark spirulina tablet",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "coloring preparation spirulina extract",
+    "quantity": "",
+    "name": [
+      "spirulina extract",
+      "spirulina extract powder",
+      "spirulina extract 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet 500mg",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "do bun 24 0875 order format of order dim nro invoice 24sg0302xmy 02 03 2024 goods import registration no reg 50079545 20240515n dated 2024 05 15 approved invima no vinvima 24 0059942 of 2024 05 15 sanitary inspection certificate bu 2024007424 of 2024 05 18 phytosanitary certificate cfn 004425 24 of 05 17 2024 amount 500 00 kilos spirulina powder commercial powder conservation state dry dehydrated process to which it has been subjected pulverized human consumption sector which it is directed to raw material for the industry does not have drying process industrial at temp of 55 degrees cent packaging barrel per 25 kgs approx emp and country qinhuangdao shuoguo trading co ltd china year of production 2024 no 24sg03022 manufacturing 11 03 2024 expiration 11 03 2027",
+    "quantity": "2024 g",
+    "name": [
+      "spirulina powder commercial",
+      "spirulina powder commercial powder",
+      "spirulina powder commercial 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract phycocyanin powerwith maltodextrin no pnfd240011 manufacturing dt apr 24",
+    "quantity": "",
+    "name": [
+      "spirulina extract phycocyanin",
+      "spirulina extract phycocyanin powder",
+      "spirulina extract phycocyanin 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 600g sm ref spirulina",
+    "quantity": "600g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500 p2stnd2401",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 150g sm ref spirulina 150g",
+    "quantity": "150g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "natural medicine 3ganodermaq in kpowder spirulina powder almond flour collagen peptide viovital drinkable ampoules syrup vita bronk",
+    "quantity": "3g",
+    "name": [
+      "spirulina powder almond",
+      "spirulina powder almond powder",
+      "spirulina powder almond 1000kgs"
+    ]
+  },
+  {
+    "description": "carbamide forte spirulina powder organic wheat grass powder 100g",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet 500",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "pce california gold nutrition superfoods organic spirulina powder oz 24",
+    "quantity": "",
+    "name": [
+      "spirulina powder oz",
+      "spirulina powder oz powder",
+      "spirulina powder oz 1000kgs"
+    ]
+  },
+  {
+    "description": "nop standard organic spirulina powder no by ceres gmbh cn bio 140",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablets organic spirulina chlorella tablets phycocyanin powder",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder no el241274 botanical name arthrospira platensis",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder spirulina powder spirulina powde marketed in kilograms",
+    "quantity": "",
+    "name": [
+      "spirulina powder spirulina",
+      "spirulina powder spirulina powder",
+      "spirulina powder spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina functional red stamped 2200 spirulina capsules nakaya domestic japan ncc hoang hoa tham market gift goods 100",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 100gm as per document",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet 600mg",
+    "quantity": "600mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract phycocyanin powder with trehalose no pnfb240010 manufacturing feb 2024",
+    "quantity": "",
+    "name": [
+      "spirulina extract phycocyanin",
+      "spirulina extract phycocyanin powder",
+      "spirulina extract phycocyanin 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract phycocyanin powder with trehalose no pnfb240007 manufacturing feb 2024",
+    "quantity": "",
+    "name": [
+      "spirulina extract phycocyanin",
+      "spirulina extract phycocyanin powder",
+      "spirulina extract phycocyanin 1000kgs"
+    ]
+  },
+  {
+    "description": "prime plus spirulina extract capsules",
+    "quantity": "",
+    "name": [
+      "spirulina extract capsules",
+      "spirulina extract capsules powder",
+      "spirulina extract capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "reload eff tab blueberry 20s tube nutraceutical spirulina extract vitamin and vitamin b12 tablets blueberry",
+    "quantity": "",
+    "name": [
+      "spirulina extract vitamin",
+      "spirulina extract vitamin powder",
+      "spirulina extract vitamin 1000kgs"
+    ]
+  },
+  {
+    "description": "herbal spirulina powder 100gm",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina spirulina powder raw material for the industry industrial ch 005s spirulina",
+    "quantity": "",
+    "name": [
+      "spirulina powder raw",
+      "spirulina powder raw powder",
+      "spirulina powder raw 1000kgs"
+    ]
+  },
+  {
+    "description": "ingredients organic spirulina powder organic spirulina powder extract powder 5kg bale case 724424 92 dr willmar schwabe india pvt ltd 100",
+    "quantity": "5kg",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "organic chlorella 2g tabletsorganic chlorel la 5g tabletsorganic chlorella powderorgani spirulina 2g tabletsorganic spirulina tablets",
+    "quantity": "2g",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "health protection ta spirulina capsules dietary suppement sea algae tablets 60 capsules nw 24 06 january 11 2023 january 11 2026 slt tcm manufacturing pte ltd 100",
+    "quantity": "60 capsules",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder sb3oi23058 manufacturing sep 2023 package 1329 24",
+    "quantity": "",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "chlorella spirulinatabletsc hlorella spirulina od 5000ta blets1 240ctns 31p plts aci 8f55keldet240511",
+    "quantity": "",
+    "name": [
+      "spirulinatabletsc",
+      "spirulinatabletsc powder",
+      "spirulinatabletsc 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 8000kgs this shipment no solid wood packing material 320drums 20pallets tel 86 22 58895555",
+    "quantity": "8000kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder sb1se23029 60 cartons packed in pallets",
+    "quantity": "60 cartons",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 227 20 white pouch",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder chlorella powder wheat grass powder barley grass powder kale powder matcha powder ginger powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder chlorella",
+      "spirulina powder chlorella powder",
+      "spirulina powder chlorella 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder no osp03202311",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "collagen gummies vitamin and spirulina capsules",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina tablet spirulina",
+      "spirulina tablet spirulina powder",
+      "spirulina tablet spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "900kgs spirulina extract",
+    "quantity": "900kg",
+    "name": [
+      "spirulina extract",
+      "spirulina extract powder",
+      "spirulina extract 1000kgs"
+    ]
+  },
+  {
+    "description": "irish moss powder tongkat ali extract red clo ver extract glutathione reduced mulberry le af extract pumpkin seed extract chlorella pow der spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "do bogi0219654 001 declaration goods located in the intexzona free zone last partial import registration reg 50163708 20231018n approval 2023 10 18 effective 2024 04 17 vb invima vinvima 23 0123876 approval 2023 10 18 modified import registration no reg 50163708 20231018n m01 approval 2024 04 22 is presented effective 2024 07 16 vb invima vinvima 24 0047483 approval 2024 04 18 invoice 23hj 019 2023 07 01 spirulina 550 composition spirulina powder 98 excipients magnesium stearate and silicon dioxide packaging type pp pill box with aluminum pe linner and plastic cover for 100 tablets packaging color amber hilda strauss description according to invoice spirulina tablet 550mg 100pcs bolttle 100bottles carton no cp23017 mfg jun 10 2023 jun 10 2025 natural formulas name of active ingredient spirulina spirulina",
+    "quantity": "550mg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 1000 stf24026",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet 250",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500mg ste24022 ste24023",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder s1bol23002 23003 s1bsl23005 s1boa24002 s1bob24003 s1bsb24006 24007 24008",
+    "quantity": "",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "4x5 spirulina tablets per carton",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "one piece swimsuit cisooti nasal strips skechers girl flax oil basic migrastil vigor green smoothie powder eye contour dancer queen skirts spirulina powder excedrin co",
+    "quantity": "",
+    "name": [
+      "spirulina powder excedrin",
+      "spirulina powder excedrin powder",
+      "spirulina powder excedrin 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 23110202 exp nov 01 2025 spirulina powder part 140610 90 days credit bl",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "dead single cellular microorganisms spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet 250mg",
+    "quantity": "250mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder number yjogs2 number yj20240521",
+    "quantity": "",
+    "name": [
+      "spirulina powder number",
+      "spirulina powder number powder",
+      "spirulina powder number 1000kgs"
+    ]
+  },
+  {
+    "description": "1500kgs spirulina extract",
+    "quantity": "1500kg",
+    "name": [
+      "spirulina extract",
+      "spirulina extract powder",
+      "spirulina extract 1000kgs"
+    ]
+  },
+  {
+    "description": "additional raw materials used to produce aquatic spirulina powder spirulina powder 100 25kg drum sp0520240430 production april 30 2024 april 29 2027",
+    "quantity": "25kg",
+    "name": [
+      "spirulina powder spirulina",
+      "spirulina powder spirulina powder",
+      "spirulina powder spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "nutriorg spirulina powder 100gm",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder bio sp 2402 cn bio 140 organic by ceres",
+    "quantity": "",
+    "name": [
+      "spirulina powder bio",
+      "spirulina powder bio powder",
+      "spirulina powder bio 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder no osp240426 2000kgs organic chlorella powder no ocp240430 500kgs organic by ceres cn bio 140",
+    "quantity": "2000kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "supplements garlic capsules spirulina capsules passionflower capsules milk thistle capsules cuachalate and chupandilla capsules moringa capsules",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 200kg",
+    "quantity": "200kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder sb1si23044 s1bsi23001 80 cartons packed in 3pallets",
+    "quantity": "80 cartons",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder hts",
+    "quantity": "",
+    "name": [
+      "spirulina powder hts",
+      "spirulina powder hts powder",
+      "spirulina powder hts 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder anhydrous monosodium phospha te msm jiaogulan powder calcium citrate 1012 packages on 28 pallets",
+    "quantity": "",
+    "name": [
+      "spirulina powder anhydrous",
+      "spirulina powder anhydrous powder",
+      "spirulina powder anhydrous 1000kgs"
+    ]
+  },
+  {
+    "description": "do 13bogct05240326 order number purchase order ref 00460919177s4 access business group internat declaration 20 uts user b00236 and first quality merchandise import registration reg 50034709 20240228n approval 2024 02 28 effective 2024 08 27 approved vinvima 24 0025074 approval 2024 02 28 conversion factor 827 06 col pesos merchandise originating and coming from the united states covered under certificate of origin without number with validity 12 31 2024 we accept the tariff benefit of the free trade agreement between colombia and the united states according to decree 0730 of april 13 2012 import registration 50034709 trade name complex dual release nutrilite ref 110170co3 other characteristics complex dual release dietary supplement with complex vitamins in dual release tablets composition each tablet spirulina powder arthrospira platensis alga",
+    "quantity": "",
+    "name": [
+      "spirulina powder arthrospira",
+      "spirulina powder arthrospira powder",
+      "spirulina powder arthrospira 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder cas 724 424 92 spirulina powder ingredient powder packaged 20kg barrel 20240601 production 06 2024 05 2027 100",
+    "quantity": "20kg",
+    "name": [
+      "spirulina powder cas",
+      "spirulina powder cas powder",
+      "spirulina powder cas 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder no sp 230427",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder no ayusp f4",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "2000kgs spirulina extract phycocyanin powder",
+    "quantity": "2000kg",
+    "name": [
+      "spirulina extract phycocyanin",
+      "spirulina extract phycocyanin powder",
+      "spirulina extract phycocyanin 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder spirulina powder 500gram unk buy at evenswisstsi co ltd gift 100 vn",
+    "quantity": "500g",
+    "name": [
+      "spirulina powder spirulina",
+      "spirulina powder spirulina powder",
+      "spirulina powder spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 100u 0196 ed jun 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "moringa spirulina capsules90 capsules per",
+    "quantity": "90 capsules",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 100g 0116 ed jun2026",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "non harmfull for human consumption spirulina powder no gh sp 140224 manufacturing dt 2024 exp dt 2027",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules of 60 caps",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder in 10 bag",
+    "quantity": "",
+    "name": [
+      "spirulina powder in",
+      "spirulina powder in powder",
+      "spirulina powder in 1000kgs"
+    ]
+  },
+  {
+    "description": "nltp spirulina powder en spirulina algae protein 40 powder protective production ingredient sk nsx earthrise nutritionals llc number 20313 june 26 2022 june 25 2026 100 qc 20kg ct 3ct",
+    "quantity": "20kg",
+    "name": [
+      "spirulina powder en",
+      "spirulina powder en powder",
+      "spirulina powder en 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablets",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "herbal natural spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "chlorella spirulina powder chlorella spirulin",
+    "quantity": "",
+    "name": [
+      "spirulina powder chlorella",
+      "spirulina powder chlorella powder",
+      "spirulina powder chlorella 1000kgs"
+    ]
+  },
+  {
+    "description": "pure spirulina powder spirulina pure powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder spirulina",
+      "spirulina powder spirulina powder",
+      "spirulina powder spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "do 13bogct06240032 order number purchase order ref 00460919285s4 access business group internat declaration 20 uts user b00236 and first quality merchandise import registration reg 50034709 20240228n approval 2024 02 28 effective 2024 08 27 approved vinvima 24 0025074 approval 2024 02 28 conversion factor 812 84 col pesos merchandise originating and coming from the united states covered under certificate of origin without number with validity 12 31 2024 we accept the tariff benefit of the free trade agreement between colombia and the united states according to decree 0730 of april 13 2012 import registration 50034709 trade name complex dual release nutrilite ref 110170co3 other characteristics complex dual release dietary supplement with complex vitamins in dual release tablets composition each tablet spirulina powder arthrospira platensis algacom",
+    "quantity": "",
+    "name": [
+      "spirulina powder arthrospira",
+      "spirulina powder arthrospira powder",
+      "spirulina powder arthrospira 1000kgs"
+    ]
+  },
+  {
+    "description": "do 2407bqi00643 oas oe0406 order order 184280 declaration of invoice 57736084 11 07 2024 tax in accordance with decree 272 of 2018 import registration is presented in accordance with decree 925 of 2013 approved vinvima 24 0087416 07 12 2024 goods natural blue spirulina extract trade name vegebrite blue spiruina pws origin vegetable composition spirulin platensis extract 100 physical aspect powder packaging type box 5kg for the manufacture of medicines for human coloring hypromellose to manufacture empty hypromellose capsules to packaging medicines vegebrite reference does not have quantity 20 kilogram",
+    "quantity": "2024 g",
+    "name": [
+      "spirulina extract trade",
+      "spirulina extract trade powder",
+      "spirulina extract trade 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet 500mg stc2401815 cartons packed in 01 pallet",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "herbal medicine dr veda spirulina capsule 60 capsules",
+    "quantity": "60 capsules",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "do do 350244 24 001 declaration goods packed in 1x20 with 327 cartons import registration nr reg 50095122 20240610n with approval 2024 06 10 approved invima nr vinvima nr vinvima 24 0070304 with approval 2024 06 06 vfne nr vfne 24 02343 with approval 2024 06 10 merchandise box 79 we add usd 65 for expenses related to freight spirulin composition 100 spirulina platensis type of packaging polyethylene with 120 tablets 240 7500 grs each 28 89 per dxn sanitary registration nr sd2015 0003577 vig october 30 2025 file number 20088428 dxn spirulina tablet 120s cartons with 400 boxes with nr tsca240032 manufacturing 01 2024 expiration 01 2027 180 boxes with no tsca240037 manufacturing 02 2024 expiration date02 2027 2220 boxes with no tsca240038 800 boxes with no tsca240046 manufacturing 03 2024",
+    "quantity": "327 cartons",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "sucralose stevia polygonum cuspidatum extract spirulina powder 645drums 22pallets",
+    "quantity": "645drums",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "health care spirulina capsules qty 4480 pcs all detailed as per attached inv and packing list this shipment is partial another part bl kmtcxgg2472059b kmtcxgg2472059a",
+    "quantity": "4480 pcs",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract phycocyanin",
+    "quantity": "",
+    "name": [
+      "spirulina extract phycocyanin",
+      "spirulina extract phycocyanin powder",
+      "spirulina extract phycocyanin 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract heterosides xi an pi",
+    "quantity": "",
+    "name": [
+      "spirulina extract heterosides",
+      "spirulina extract heterosides powder",
+      "spirulina extract heterosides 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder natural colourant phycocyanin powder natural colourant",
+    "quantity": "",
+    "name": [
+      "spirulina powder natural",
+      "spirulina powder natural powder",
+      "spirulina powder natural 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder s1bsb24008 s1bsb24009 s1bsc24010 s1bsc24011 s1bsc24013 14 s1bsd24015 16 s2bse24004",
+    "quantity": "",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "and spirulina capsules 450 60 counts",
+    "quantity": "60 count",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "chlorella spirulina powder chlorella powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder chlorella",
+      "spirulina powder chlorella powder",
+      "spirulina powder chlorella 1000kgs"
+    ]
+  },
+  {
+    "description": "machine accessory blouse shirt jacket sweater necklace duo vitamins leggings key ring purse bags spirulina powder clock dress shoes",
+    "quantity": "",
+    "name": [
+      "spirulina powder clock",
+      "spirulina powder clock powder",
+      "spirulina powder clock 1000kgs"
+    ]
+  },
+  {
+    "description": "1000kgs organic spirulina powder",
+    "quantity": "1000kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "150 kgs organic spirulina powderbrand name the superfood grocer",
+    "quantity": "150 kg",
+    "name": [
+      "spirulina powderbrand",
+      "spirulina powderbrand powder",
+      "spirulina powderbrand 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder organic chlorell powder no osdlxzp240629 osdxqzp24063",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder capsules contract mfg ing kraft 60 caps 100 packs",
+    "quantity": "",
+    "name": [
+      "spirulina powder capsules",
+      "spirulina powder capsules powder",
+      "spirulina powder capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 140 kgs drums",
+    "quantity": "140 kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet p2stng2403",
+    "quantity": "",
+    "name": [
+      "spirulina tablet p",
+      "spirulina tablet p powder",
+      "spirulina tablet p 1000kgs"
+    ]
+  },
+  {
+    "description": "medicaments of ayurvedic system spirulina tablet",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder en no en027 earthrise nutritionals llc used as functional ingredients 2023 2027 01kg bag cas no 724424 92 100",
+    "quantity": "01kg",
+    "name": [
+      "spirulina powder en",
+      "spirulina powder en powder",
+      "spirulina powder en 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder used as raw mask ingredients in the cosmetic industry 07 25 2024 07 24 2024 hsx fitopharm cas 11016 15 100",
+    "quantity": "",
+    "name": [
+      "spirulina powder used",
+      "spirulina powder used powder",
+      "spirulina powder used 1000kgs"
+    ]
+  },
+  {
+    "description": "linablue g1 spirulina extract powder for production number 51432 manufactured on 05 13 2024 expired on 05 13 2027 earthrise nutritionals llc 100",
+    "quantity": "",
+    "name": [
+      "spirulina extract powder",
+      "spirulina extract powder powder",
+      "spirulina extract powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder et no ef210 idc corporation used as functional ingredients 12 21 22 12 20 26 01kg bag cas no 724424 92 100",
+    "quantity": "01kg",
+    "name": [
+      "spirulina powder et",
+      "spirulina powder et powder",
+      "spirulina powder et 1000kgs"
+    ]
+  },
+  {
+    "description": "25 spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder s1boa24001 24 cartons packed in pallet",
+    "quantity": "24 cartons",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules andes spiruline yes 144 jars in ctn 007 natural for nutritional supplement spiruline 100 capsules 400 no 2407190 expiration 07 2026 sanitary pne 1444 current 15 02 2027",
+    "quantity": "100 capsules",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder andes spiruline yes aluminized covers 5kg in ctn 004 natural for nutritional supplement spirulina powder box 20 no 2407190 expiration 07 2026 sanitary rspiadeudh0121sanipes",
+    "quantity": "5kg",
+    "name": [
+      "spirulina powder andes",
+      "spirulina powder andes powder",
+      "spirulina powder andes 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder other details as per inv",
+    "quantity": "",
+    "name": [
+      "spirulina powder other",
+      "spirulina powder other powder",
+      "spirulina powder other 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules of 60 caps other details as per inv",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "30 kgs of spirulina powder",
+    "quantity": "30 kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "chlorella powder chlorella spirulina powder th factor powder od 5000 green gem cgf powder chlorella groth factor liquid",
+    "quantity": "5000 g",
+    "name": [
+      "spirulina powder th",
+      "spirulina powder th powder",
+      "spirulina powder th 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder s1bsd24015 manufacturing april 2024 package 4524 24",
+    "quantity": "",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "dry spirulina extract bie081st",
+    "quantity": "",
+    "name": [
+      "spirulina extract bie",
+      "spirulina extract bie powder",
+      "spirulina extract bie 1000kgs"
+    ]
+  },
+  {
+    "description": "concentrated spirulina powder coloring velvet lapis lazuli blue",
+    "quantity": "",
+    "name": [
+      "spirulina powder coloring",
+      "spirulina powder coloring powder",
+      "spirulina powder coloring 1000kgs"
+    ]
+  },
+  {
+    "description": "green supplement spirulina tablet no ft229",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "tiens prebiotic boxes reducing tea taianshi antilipid tea bottles jiaogulan plus capsules bottles of tiens spirulina capsules bottles of supplement ca",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder no osdlxzp240",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "raw materials for producing health protection spirulina powder organic spirulina platensis powder 25kg ctn 202406019 manufactured on june 19 2024 years from 100",
+    "quantity": "25kg",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder s3bsi23001",
+    "quantity": "",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "processed dragon superfoods organic spirulina powder is packaged in sealed labeled packaging 200g bags bags per box september 29 2025 manufactured by smart organic ad 100",
+    "quantity": "200g",
+    "name": [
+      "spirulina powder is",
+      "spirulina powder is powder",
+      "spirulina powder is 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder organic chlorella po wder",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 1kg pouch",
+    "quantity": "1kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder no nf7sp 242336 19pallets hs code210220 this shipment cont ains no wood packing materials",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder 2packages 63ctns",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder cosmetic grade",
+    "quantity": "",
+    "name": [
+      "spirulina powder cosmetic",
+      "spirulina powder cosmetic powder",
+      "spirulina powder cosmetic 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder pure 100",
+    "quantity": "",
+    "name": [
+      "spirulina powder pure",
+      "spirulina powder pure powder",
+      "spirulina powder pure 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powderinv number yj20 240726batch number a24187yj01 a24189yj01 a24191yj01 a24193yj01 a24176yj01 a24180yj0 a24182yj01 a24178yj01",
+    "quantity": "",
+    "name": [
+      "spirulina powderinv",
+      "spirulina powderinv powder",
+      "spirulina powderinv 1000kgs"
+    ]
+  },
+  {
+    "description": "blue coloring naturex yes blue coloring lots ag00016251 ag00016548 mfg 01 05 2024 16 05 2024 best before 01 05 2025 16 05 2025 coloring spirulina extract vegebrite ultimate ice blue work inv erted sugar syrup natural color spiruline blue part ca101938 credit 30d fact",
+    "quantity": "",
+    "name": [
+      "spirulina extract vegebrite",
+      "spirulina extract vegebrite powder",
+      "spirulina extract vegebrite 1000kgs"
+    ]
+  },
+  {
+    "description": "indian origin 501110 spirulina tablet no gt052024021",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "indian origin 601741 spirulina powder no gt052024018",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder yes yes 27 fibrotrumbers contained in pallet presented in 27 cu etes drum of 25 or sp 69 06 2024 vcto 06 2027 spirulina powder sanipes international certificate 18895 2024 2024480879",
+    "quantity": "",
+    "name": [
+      "spirulina powder yes",
+      "spirulina powder yes powder",
+      "spirulina powder yes 1000kgs"
+    ]
+  },
+  {
+    "description": "supplementary ingredients used to produce aquatic feed spirulina powder spirulina powder 100 25kg drum sp0520240616 manufacturing june 16 2024 june 15 2027",
+    "quantity": "25kg",
+    "name": [
+      "spirulina powder spirulina",
+      "spirulina powder spirulina powder",
+      "spirulina powder spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 80gm",
+    "quantity": "80g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "vitamin dha of spirulina powder of barly grass powder supplement blue barry oil of",
+    "quantity": "",
+    "name": [
+      "spirulina powder of",
+      "spirulina powder of powder",
+      "spirulina powder of 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 120 capsules 120 carton",
+    "quantity": "120 capsules",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder nutraceuticals",
+    "quantity": "",
+    "name": [
+      "spirulina powder nutraceuticals",
+      "spirulina powder nutraceuticals powder",
+      "spirulina powder nutraceuticals 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder no sp 240118 240208 240219",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "slac 10 pallets spirulina powder hs 2102 20 0000 aes itn x20240820034263 pallet",
+    "quantity": "",
+    "name": [
+      "spirulina powder hs",
+      "spirulina powder hs powder",
+      "spirulina powder hs 1000kgs"
+    ]
+  },
+  {
+    "description": "9600 00 bottles dxn spirulina capsule 30s 1ctn 400bttlsx30pcsx350 name dxn name spirulina supplement capsule registered as supplement with no approved therapeutic claim",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "6750 00 bottles dxn spirulina capsule 90s 1ctn 250bttlsx90pcsx350 name dxn name spirulina supplement capsule registered as supplement with no approved therapeutic claims",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "capsules spirulina capsule oth detailsas per document",
+    "quantity": "",
+    "name": [
+      "spirulina capsule oth",
+      "spirulina capsule oth powder",
+      "spirulina capsule oth 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina spirulina extract 20kg ctn 100",
+    "quantity": "20kg",
+    "name": [
+      "spirulina extract",
+      "spirulina extract powder",
+      "spirulina extract 1000kgs"
+    ]
+  },
+  {
+    "description": "dxn spirulina tablet 500 per 125 with essential packing per 174 supplement qty 320 bottles",
+    "quantity": "320 bottles",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 240628",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "500kg organic spirulina powder 200kg organic der 100kg organic seabuckthorn powder",
+    "quantity": "500kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "red beet pe spirulina extract stevia rosemary extract liquid rosemary extract",
+    "quantity": "",
+    "name": [
+      "spirulina extract stevia",
+      "spirulina extract stevia powder",
+      "spirulina extract stevia 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules sc224005",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "colorant blue microfine colorant spirulina extract coloring materials cherry microfine",
+    "quantity": "",
+    "name": [
+      "spirulina extract coloring",
+      "spirulina extract coloring powder",
+      "spirulina extract coloring 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 100u 0197 ed aug 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 500u 0197 ed aug 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 1kg 0118 ed aug 2026",
+    "quantity": "1kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 2kg 0118 ed aug 2026",
+    "quantity": "2kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powderinv number yj202 40809 number a24195yj01 a24197yj01 a24198yj01 a24193yj01 a24178yj01",
+    "quantity": "",
+    "name": [
+      "spirulina powderinv",
+      "spirulina powderinv powder",
+      "spirulina powderinv 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder organic spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder spirulina pure powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder spirulina",
+      "spirulina powder spirulina powder",
+      "spirulina powder spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "60 kgs spirulina tablet",
+    "quantity": "60 kg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder s1bol23002 fg dec 2023 package 1414 to 1488 24 s1bol23003 mfg dec 2023 age 1489 to 1578 24 s1bsl23005 mfg dec 2023 package 1579 to 1632 24 s1boa24002 mfg jan 2024 pac kage 1636 to 1732 24 s1bob24003",
+    "quantity": "",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder spray dried sb3od23026 sb3of23048 sb1sd23023 sb1se23030 sb1sg23039 40 sb2sh23004 sb2sj23007",
+    "quantity": "",
+    "name": [
+      "spirulina powder spray",
+      "spirulina powder spray powder",
+      "spirulina powder spray 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract stevia red beet pe glucosyl steviol glycosides",
+    "quantity": "",
+    "name": [
+      "spirulina extract stevia",
+      "spirulina extract stevia powder",
+      "spirulina extract stevia 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder no sp 240704 sp 240711 sp 240719",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 100u batch0197edaug 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 500u batch0197edaug 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 2kg batch0118 edaug 2026",
+    "quantity": "2kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 1kg batch0118 edaug 2026",
+    "quantity": "1kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "grade spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "health protection mk spirulina tablets 2300 tablets registration number 7491 2020 dksp japan algae co ltd 100 gift vn",
+    "quantity": "100 g",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "health care tianshi spirulina capsules qty 520 pcs all detailed as per attached inv and packing list",
+    "quantity": "520 pcs",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "probiotics spirulina tablets",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "iga240865 order 033 24 declaration of invoice 2024tsbd 0140 12425 import registration reg 50149826 20240903n 03 09 2024 vinvima 24 0110680 02 09 2024 sd2018 0004234 file 20133117 filing 20201032525 02 19 2020 validity 07 30 2028 healthy tax law 2277 decree 0219 ultraprocessed edible products healthy tax does not apply number of kilocalories 180 00 sodium calories 00 sodium in 100g 00 sugar 00 saturated fats 00 partial packages 33 of 253 800 unit tianshi spirulina capsules composition each hard capsule spirulin arthrospira pltensis 250mg type of packaging white high density polyethylene hdpe with cover white polypropylene pp thread with safety ring 100 hard capsules tiens others according to import registration tianjin tianshi biological development co ltd others according to pre inspection cd4031",
+    "quantity": "100g",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "chlorella spirulina tablet broken cell",
+    "quantity": "",
+    "name": [
+      "spirulina tablet broken",
+      "spirulina tablet broken powder",
+      "spirulina tablet broken 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder cas 724 424 92 spirulina powder ingredients powder 20kg ctn 20240807 manufacturing 08 2024 08 2027 100",
+    "quantity": "20kg",
+    "name": [
+      "spirulina powder cas",
+      "spirulina powder cas powder",
+      "spirulina powder cas 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablets 500 batchno p2stnh2405 25 cartons packed in 01pallet",
+    "quantity": "25 cartons",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder methyl sulfonyl methane",
+    "quantity": "",
+    "name": [
+      "spirulina powder methyl",
+      "spirulina powder methyl powder",
+      "spirulina powder methyl 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder arthrospira platensis",
+    "quantity": "",
+    "name": [
+      "spirulina powder arthrospira",
+      "spirulina powder arthrospira powder",
+      "spirulina powder arthrospira 1000kgs"
+    ]
+  },
+  {
+    "description": "00 pe organic spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "nature bonuses evening prince oil promotes women health 1000 evening prince oil 60 super green fast release soft capsules in spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "chlorella powder spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "500kg organic spirulina powder 200kg organic spirulina tablet 25kg organic phycocyanin pow der 100kg organic seabuckthorn powder",
+    "quantity": "500kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 100 spirulina platenis algae powder raw material for functional production 5kg bag 20kg ctn number cp24021 manufacturing july 2024 july 2026 100",
+    "quantity": "5kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet in bulk raw material",
+    "quantity": "",
+    "name": [
+      "spirulina tablet in",
+      "spirulina tablet in powder",
+      "spirulina tablet in 1000kgs"
+    ]
+  },
+  {
+    "description": "1000kgs spirulina extract phycocyanin powder 100 drums plts",
+    "quantity": "1000kg",
+    "name": [
+      "spirulina extract phycocyanin",
+      "spirulina extract phycocyanin powder",
+      "spirulina extract phycocyanin 1000kgs"
+    ]
+  },
+  {
+    "description": "shrimp larvel diets spirulina powder 425gm can 12 cans carton",
+    "quantity": "425g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "18000 00 bottles dxn spirulina capsule 30s 1ctn400bttlsx30pcsx350mg name dxn name spirulina supplement capsule registered as supplement with no approved therapeutic claims health supplement",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder no gh sp 040424 manufacturing dt 04 2024 exp dt 04 2027",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500 ste24024",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "5000 00 bottles dxn spirulina capsule 90s 1ctn250bttlsx90pcsx350mg name dxn name spiruna supplement capsule registered as supplement with no approved therapeutic claims health supplement",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "california gold nutrition superfoods organic spirulina powder oz 24",
+    "quantity": "",
+    "name": [
+      "spirulina powder oz",
+      "spirulina powder oz powder",
+      "spirulina powder oz 1000kgs"
+    ]
+  },
+  {
+    "description": "industrial raw material for health care spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder s1bsd24017 234 cartons packed in 07 pallets",
+    "quantity": "234 cartons",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500 p2stnh2404 p1stni2402",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet dynapharm",
+    "quantity": "",
+    "name": [
+      "spirulina tablet dynapharm",
+      "spirulina tablet dynapharm powder",
+      "spirulina tablet dynapharm 1000kgs"
+    ]
+  },
+  {
+    "description": "sea water spirulina powder dynapharm",
+    "quantity": "",
+    "name": [
+      "spirulina powder dynapharm",
+      "spirulina powder dynapharm powder",
+      "spirulina powder dynapharm 1000kgs"
+    ]
+  },
+  {
+    "description": "nltp spirulina powder en spirulina algae protein 40 powder protection production material earthrise nutritionals llc number 20338 05 07 2022 04 07 2026 100 qc 20kg ct 3ct",
+    "quantity": "20kg",
+    "name": [
+      "spirulina powder en",
+      "spirulina powder en powder",
+      "spirulina powder en 1000kgs"
+    ]
+  },
+  {
+    "description": "organic carrot powder organic cinnamon powder organic lion mane mushroom powder organic astragalus root powder organic pumpkin seed powder organic spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet 400mg sti24033 20 cartons packed in pallet",
+    "quantity": "400mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "do bogi0224749 001 order process id21053 declaration goods located in the intexzona free zone 2nd part import registration reg 50142480 20240823n of approval is presented 2024 08 23 effective 2025 02 22 vb invima vinvima 24 0106819 approval 2024 08 23 exemption from the healthy tax for being dietary supplement invoice 24hj 006 2024 04 09 spirulina 550 composition spirulina powder 98 excipients magnesium stearate and silicon dioxide packaging type pp pill with aluminum linner pe and plastic cover for 100 tablets hilda strauss natural formulas description according to invoice spirulina tablet 550mg 100pcs bolttle 100bottles carton cp24008 vto 2026 03 16 qty 19200 bottles",
+    "quantity": "550mg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder packs",
+    "quantity": "",
+    "name": [
+      "spirulina powder packs",
+      "spirulina powder packs powder",
+      "spirulina powder packs 1000kgs"
+    ]
+  },
+  {
+    "description": "nop standard organic spirulina powder no osp0320240708 organic chlorella tablets 250mg no oct20240821 organic spirulina tablets 250mg no ost20240820",
+    "quantity": "250mg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "green supplement spirulina tablet ft229",
+    "quantity": "",
+    "name": [
+      "spirulina tablet ft",
+      "spirulina tablet ft powder",
+      "spirulina tablet ft 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsule powder bulk",
+    "quantity": "",
+    "name": [
+      "spirulina capsule powder",
+      "spirulina capsule powder powder",
+      "spirulina capsule powder 1000kgs"
+    ]
+  },
+  {
+    "description": "supplement spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "capsules of health supplements organic spirulina capsule 120 cap",
+    "quantity": "",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder s1bsd24017",
+    "quantity": "",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulin powder organic spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder s1bsd24018",
+    "quantity": "",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "aluminium foil seal liner 760720 plastic aging bag 392321 flaxseed oil powder 210690 abbage powder napa cabbage powder 200599 blac kberry powder kiwi powder haskap berry powder schisandra berry extract cascara fruit extrac spirulina extract 130219 watermelon seed pr otein powder potato protein powder 350400",
+    "quantity": "",
+    "name": [
+      "spirulina extract",
+      "spirulina extract powder",
+      "spirulina extract 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablets 500mg p1stni2401 p1stni2403 515 cartons packed in 12 pallets",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder no sp1 240722",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder chlorella powder chlorella tablets chlorella spirulina regular 50 50 powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder chlorella",
+      "spirulina powder chlorella powder",
+      "spirulina powder chlorella 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder bulk",
+    "quantity": "",
+    "name": [
+      "spirulina powder bulk",
+      "spirulina powder bulk powder",
+      "spirulina powder bulk 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsule tiens spirulina capsule supplement and complementation spirulina 250 capsule high density polyethylene white color 100 capsu tianshi spirulin capsules re incription number in health registry pne 1466",
+    "quantity": "250 capsule",
+    "name": [
+      "spirulina capsule tiens",
+      "spirulina capsule tiens powder",
+      "spirulina capsule tiens 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract zl 04 gm2018 05220240820 colours other than synthetic",
+    "quantity": "04 g",
+    "name": [
+      "spirulina extract zl",
+      "spirulina extract zl powder",
+      "spirulina extract zl 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500 p1stni2404",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder s1bsd24017 276 cartons packed in pallets",
+    "quantity": "276 cartons",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "10 spirulina extract",
+    "quantity": "",
+    "name": [
+      "spirulina extract",
+      "spirulina extract powder",
+      "spirulina extract 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder sb4oj23005 60 cartons packed in pallets",
+    "quantity": "60 cartons",
+    "name": [
+      "spirulina powder sb",
+      "spirulina powder sb powder",
+      "spirulina powder sb 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 1000mg batchno p1stni2405",
+    "quantity": "1000mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder hs 210220",
+    "quantity": "",
+    "name": [
+      "spirulina powder hs",
+      "spirulina powder hs powder",
+      "spirulina powder hs 1000kgs"
+    ]
+  },
+  {
+    "description": "do 2410bqi00992 oas oe0406 order order 187643 declaration of invoice 57813090 10 16 2024 tax in accordance with decree 272 of 2018 import registration is presented in accordance with decree 925 of 2013 approved vinvima 24 0134428 10 18 2024 goods natural blue spirulina extract trade name vegebrite blue spiruina pws origin vegetable composition spirulin platensis extract 100 physical appearance powder packaging type box 5kg for the manufacture of medicines for human coloring hypromellose to manufacture cow hypromellose capsules to packaging medicines givaudan reference does not have quantity 14 kilogram",
+    "quantity": "2024 g",
+    "name": [
+      "spirulina extract trade",
+      "spirulina extract trade powder",
+      "spirulina extract trade 1000kgs"
+    ]
+  },
+  {
+    "description": "160 00 boxes dxn spirulina tablet 300s 1ctn40bxsx300pcsx250mg name dxn name spirulina supplement capsule name dxn name reishi gano supplement capsule registered as supplement with no approved therapeutic claim",
+    "quantity": "300pcs",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "shivalik spirulina tablet spa 001 manufacturing 10 24 exp 03 2026 total 200 packsx60tab ea pk",
+    "quantity": "",
+    "name": [
+      "spirulina tablet spa",
+      "spirulina tablet spa powder",
+      "spirulina tablet spa 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder s1bsd24019 s1bsg24031 s2bsg24008 s1bsh24037 s1bsh24038 s1boi24004 500 ctns pkd in 17 plts",
+    "quantity": "",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsule 450mg 120 for dietary supplement",
+    "quantity": "450mg",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "do fesctgtimp0196 order 5024100046 statement of goods invoice cin1537881 09 10 2024 bar based on mixture of dairy proteins varieties 12 birthday cake composition protein mixture whey protein isolate isolated milk protein polydextrose prebiotic fiber water erythritol sweetener almonds palm seed oil glycerin sodium caseinate natural vanilla flavor sea salt gum arabic spirulina extract color red cabbage extract color turmeric extract color radish extract color sucralose sunflower and soy lecithin packaging type boxes or displays of 12 units quest nutrition quest bar quest nutrition llc quest hero quest cereal quest ref 100838 ng42263 expiration 08 13 2025 quantity 12 boxes quantity 12 box box country of origin united states 249 number of kilocalories 180 sodium calories 39 sodium in 100g 250 sugar 00",
+    "quantity": "12 units",
+    "name": [
+      "spirulina extract color",
+      "spirulina extract color powder",
+      "spirulina extract color 1000kgs"
+    ]
+  },
+  {
+    "description": "1590kgs spirulina extract",
+    "quantity": "1590kg",
+    "name": [
+      "spirulina extract",
+      "spirulina extract powder",
+      "spirulina extract 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 120 capsules per no sc224005",
+    "quantity": "120 capsules",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "oil blouses magnets trousers spirulina powder dresses",
+    "quantity": "",
+    "name": [
+      "spirulina powder dresses",
+      "spirulina powder dresses powder",
+      "spirulina powder dresses 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder ugh prodc 2024 07 13 exp 2026 07 12 inputs for the industry sp0620240713",
+    "quantity": "",
+    "name": [
+      "spirulina powder ugh",
+      "spirulina powder ugh powder",
+      "spirulina powder ugh 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 200 gms",
+    "quantity": "200 g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder cp24023 manufacture aug 05 2024 aug 04 2026 spirulina powder industry",
+    "quantity": "",
+    "name": [
+      "spirulina powder cp",
+      "spirulina powder cp powder",
+      "spirulina powder cp 1000kgs"
+    ]
+  },
+  {
+    "description": "supplements moringa capsules supplements passionflower capsules supplements garlic capsules supplements milk thistle capsules supplements spirulina capsules",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "8000 00 bottles dxn spirulina capsule 90s 1ctn250bttlsx90pcsx350mg name dxn name spirulina supplement capsule registered as supplement with no approved therapeutic claims health supplement",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "16400 00 bottles dxn spirulina capsule 30s 1ctn400bttlsx30pcsx350mg name dxn name spirulina supplement capsule registered as supplement with no approved therapeutic claims health supplement",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder s1bsf24025 59 cartons packed in pallets",
+    "quantity": "59 cartons",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder yes yes 20 drums 20 drums of spirulin powder part a100161 90 days credit bl",
+    "quantity": "20 drums",
+    "name": [
+      "spirulina powder yes",
+      "spirulina powder yes powder",
+      "spirulina powder yes 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 20kgs",
+    "quantity": "20kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder s1bsi24033 60 cartons packed in pallets",
+    "quantity": "60 cartons",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules andes spiruline yes 144 jars in carton 007 natural for nutritional supplement spiruline 100 capsules 400 2407190 expiration 10 2026 sanitary pne 1444 current fifteen 02 2027",
+    "quantity": "100 capsules",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder andes spiruline yes 2407190 expiration 10 2026 natural for nutritional supplement spirulina powder box 20 health register rspiadeudh0121sanipes 2021428911",
+    "quantity": "",
+    "name": [
+      "spirulina powder andes",
+      "spirulina powder andes powder",
+      "spirulina powder andes 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina yes yes spirulina powder industry ch 005s spirulina",
+    "quantity": "",
+    "name": [
+      "spirulina powder industry",
+      "spirulina powder industry powder",
+      "spirulina powder industry 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder no 0000791194 manufacturing 03 04 24 exp 02 04 27",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablets 360 tablets made with parry spirulina the best spirulina",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "ingredients earthrise natural spirulina export spirulina powder 20kg ctn number 20388 manufactured on 07 23 2022 expired 07 22 2026 manufactured on earthrise nutritionals llc 100",
+    "quantity": "20kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract usp",
+    "quantity": "",
+    "name": [
+      "spirulina extract usp",
+      "spirulina extract usp powder",
+      "spirulina extract usp 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder organic chlorella powder 5packages 176ctns",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "caramide forte organic spirulina powder protein 62 nutraceuticals100g",
+    "quantity": "100g",
+    "name": [
+      "spirulina powder protein",
+      "spirulina powder protein powder",
+      "spirulina powder protein 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder yes yes 54 fibrotrumbers contained in pallet comes in 54 pieces drum of 25 or sp 70 elab 08 2024 vcto 08 2027 spirulina powder sanipes international certificate 23995 2024 2024673345 credit 180 days from",
+    "quantity": "",
+    "name": [
+      "spirulina powder yes",
+      "spirulina powder yes powder",
+      "spirulina powder yes 1000kgs"
+    ]
+  },
+  {
+    "description": "supplement spirulina tablet",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder no spi 240827",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 40kgs drums",
+    "quantity": "40kg",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder conventional grade s2bsd24003",
+    "quantity": "",
+    "name": [
+      "spirulina powder conventional",
+      "spirulina powder conventional powder",
+      "spirulina powder conventional 1000kgs"
+    ]
+  },
+  {
+    "description": "fragrances organic mushrooms spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 500u 0197 ed oct 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 500u 0440 ed oct 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 100u 0197 ed oct 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "health protection provides vitamins minerals enhances health supports digestion mk spirulina tablets 100 spirulina 2300 tablets box mk spirulina tablets 2300 tablets 100",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder no 0000788563",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "ingredients spirulina powder algae extract powder number spspp24102578 10 24 2026 25kg ctn 100 xi an jory natural herb co ltd",
+    "quantity": "25kg",
+    "name": [
+      "spirulina powder algae",
+      "spirulina powder algae powder",
+      "spirulina powder algae 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 400mg p1stnk2406 40 cartons packed in pallet",
+    "quantity": "400mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 400mg p1stnk2406",
+    "quantity": "400mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 400mg p1stnk2406 52 cartons packed in pallet",
+    "quantity": "400mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder s1bsf24025",
+    "quantity": "",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500 p1stni2402 36 cartons packed in pallet",
+    "quantity": "36 cartons",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 400mg p1stnk2406 25 cartons packed in pallet",
+    "quantity": "400mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "health ingredients organic spirulina powder organic spirulina extract in powder of manufacture 02 2024 02 2027 of manufacture dr willmar schwabe india privated 100",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder for chemical products epimed ium extract for chemical products",
+    "quantity": "",
+    "name": [
+      "spirulina powder for",
+      "spirulina powder for powder",
+      "spirulina powder for 1000kgs"
+    ]
+  },
+  {
+    "description": "aloe coffee advent calendar cream gel cap auto switch soap trio kit suitcase doll spirulina tablet calendula toner vitamins",
+    "quantity": "",
+    "name": [
+      "spirulina tablet calendula",
+      "spirulina tablet calendula powder",
+      "spirulina tablet calendula 1000kgs"
+    ]
+  },
+  {
+    "description": "earth circle organics organic spirulina powder oz 113",
+    "quantity": "",
+    "name": [
+      "spirulina powder oz",
+      "spirulina powder oz powder",
+      "spirulina powder oz 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder 100 gm",
+    "quantity": "100 g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder no 0000799135 0000799136",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder yes yes a100161 raw material for the industry spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder yes",
+      "spirulina powder yes powder",
+      "spirulina powder yes 1000kgs"
+    ]
+  },
+  {
+    "description": "10000 00 bottles dxn spirulina capsule 30s 1ctn400bttlsx30pcsx350mg name dxn name spirulina supplement capsule registered as supplement with no approved therapeutic claims dxn spirulina capsule 30s 1ctn400bttlsx30pcsx350mg",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "3750 00 bottles dxn spirulina capsule 90s 1ctn250bttlsx90pcsx350mg name dxn name spirulina supplement capsule registered as supplement with no approved therapeutic claims",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina spirulina extract 5kg ctn 100 for pet production",
+    "quantity": "5kg",
+    "name": [
+      "spirulina extract",
+      "spirulina extract powder",
+      "spirulina extract 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder 3packages 75ctns",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "vegetable chlorella spirulina tablets by ser",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "gdn premium chlorella spirulina powder 1212 21",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablets carlyle",
+    "quantity": "",
+    "name": [
+      "spirulina tablets",
+      "spirulina tablets powder",
+      "spirulina tablets 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder nop 100 organic cer tified by ceres gmbh no sr240461",
+    "quantity": "",
+    "name": [
+      "spirulina powder nop",
+      "spirulina powder nop powder",
+      "spirulina powder nop 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder inv no xdz24168 po no 1094 800ctn 20pallets this shipment has been fumigated",
+    "quantity": "",
+    "name": [
+      "spirulina powder inv",
+      "spirulina powder inv powder",
+      "spirulina powder inv 1000kgs"
+    ]
+  },
+  {
+    "description": "red jungle spirulina powder 425 gm can 12 cans carton prawn feed 20 ctn 144 usdred jungle spirulina powder 425 gm can 12 cans cart",
+    "quantity": "425 g",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "terrasoul superfoods spirulina powder oz 170",
+    "quantity": "",
+    "name": [
+      "spirulina powder oz",
+      "spirulina powder oz powder",
+      "spirulina powder oz 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina haosail drum drum spirulina powder no yjs20240922 manu 22 09 2024 exp twenty one 09 2026 spirulina proceedings 385 twenty rspiqhchdh0120sanipes 2020391715",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "nltp spirulina powder en spirulina algae protein 40 powder protection material earthrise nutritionals llc number 20471 august 24 2022 august 23 2026 100 qc 20kg ct 3ct",
+    "quantity": "20kg",
+    "name": [
+      "spirulina powder en",
+      "spirulina powder en powder",
+      "spirulina powder en 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder capsules 60 capsules x15 white",
+    "quantity": "60 capsules",
+    "name": [
+      "spirulina powder capsules",
+      "spirulina powder capsules powder",
+      "spirulina powder capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder capsules as document",
+    "quantity": "",
+    "name": [
+      "spirulina powder capsules",
+      "spirulina powder capsules powder",
+      "spirulina powder capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "1000kgs spirulina extract phycocyanin powder 3plts 100drums",
+    "quantity": "1000kg",
+    "name": [
+      "spirulina extract phycocyanin",
+      "spirulina extract phycocyanin powder",
+      "spirulina extract phycocyanin 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder inv number yj20 241105 number yjogs20241101 yjogs202 41103 yjogs20241105 cn bio 140",
+    "quantity": "",
+    "name": [
+      "spirulina powder inv",
+      "spirulina powder inv powder",
+      "spirulina powder inv 1000kgs"
+    ]
+  },
+  {
+    "description": "ingredients spirulina powder spirulina powder scientific name spirulina platensis protein 60 powder 25kg month mh spp 241104 manufactured on 11 04 2024 expired on 11 03 2026 100",
+    "quantity": "25kg",
+    "name": [
+      "spirulina powder spirulina",
+      "spirulina powder spirulina powder",
+      "spirulina powder spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "stevia spirulina extract",
+    "quantity": "",
+    "name": [
+      "spirulina extract",
+      "spirulina extract powder",
+      "spirulina extract 1000kgs"
+    ]
+  },
+  {
+    "description": "dasherb concentrated herbal granule spirulina tablet 250mg",
+    "quantity": "250mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 100u 0440 ed dec 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 500u 0197 ed dec 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsules 500u 0440 ed dec 2027",
+    "quantity": "",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "2000kgs organic spirulina extract",
+    "quantity": "2000kg",
+    "name": [
+      "spirulina extract",
+      "spirulina extract powder",
+      "spirulina extract 1000kgs"
+    ]
+  },
+  {
+    "description": "100 organic spirulina powder 200drums 9plts this shipment no solid wood packing material",
+    "quantity": "200drums",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "raw materials for producing health protection spirulina powder organic spirulina platensis powder 25kg ctn number 202411003 manufactured on november 2024 years from of manufacture 100",
+    "quantity": "25kg",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder huachengbio 20 drums",
+    "quantity": "20 drums",
+    "name": [
+      "spirulina powder huachengbio",
+      "spirulina powder huachengbio powder",
+      "spirulina powder huachengbio 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsule a08 lt cd3102001c twenty 10 2023 19 10 2025",
+    "quantity": "08 l",
+    "name": [
+      "spirulina capsule a",
+      "spirulina capsule a powder",
+      "spirulina capsule a 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina tablet 500mg p2stnh2405 p2stni2406",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "2500 00 bottles dxn spirulina capsule 90 1ctn250bttlsx90pcsx350mg name dxn name spirulina supplement capsule registered as supplement with no approved therapeutic claims health supplement",
+    "quantity": "00 bottles",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder s1boj24005 s2bsi24009 s1bok24006 s1bok24008 s2bsj24010 s2bsk24011 s2bsh24012",
+    "quantity": "",
+    "name": [
+      "spirulina powder s",
+      "spirulina powder s powder",
+      "spirulina powder s 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500mg p1stnl2407 631 cartons packed in 19 pallets",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder organic fd strawberr cuts",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "1000kgs spirulina extract phycocyanin powder 100 drums pallets",
+    "quantity": "1000kg",
+    "name": [
+      "spirulina extract phycocyanin",
+      "spirulina extract phycocyanin powder",
+      "spirulina extract phycocyanin 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder arthrospira platensis packing 25 drum",
+    "quantity": "25 drum",
+    "name": [
+      "spirulina powder arthrospira",
+      "spirulina powder arthrospira powder",
+      "spirulina powder arthrospira 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500 p1stnl2409 189 cartons packed in pallets",
+    "quantity": "189 cartons",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder no sprlp 24",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500mg p1stnl2408 342 cartons packed in 06 pallets",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "bag with spirulina powder in drawback boxes",
+    "quantity": "",
+    "name": [
+      "spirulina powder in",
+      "spirulina powder in powder",
+      "spirulina powder in 1000kgs"
+    ]
+  },
+  {
+    "description": "supplements tianshi spirulina capsules 2400 pcs us 91 per pc drap enlistment no 00258 0002 no cd4072101b of manufacturing 05 08 2024 of 20 07 2026 part container this cont also 149 170 20 ctns against bl ascltxgkhi2400045 ascltxgkhi2400045c ascltxgkhi2400045b igm 511 indx 336 335 334 dt 15 11 2024",
+    "quantity": "2400 pcs",
+    "name": [
+      "spirulina capsules",
+      "spirulina capsules powder",
+      "spirulina capsules 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina extract spirulina maxima spirulina extract ingredients used to produce beejuvit delicious supplement no cb 7221 2018 dksp dated november 2018 s029 s60000 g0034 241106 november 2026 100",
+    "quantity": "60000 g",
+    "name": [
+      "spirulina extract spirulina",
+      "spirulina extract spirulina powder",
+      "spirulina extract spirulina 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder organic chlorella powder 3packages 100ctns",
+    "quantity": "",
+    "name": [
+      "spirulina powder organic",
+      "spirulina powder organic powder",
+      "spirulina powder organic 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder no osp03202408 08 mt no osp0320240812 mt no osp0320240816 mt originchina certifie by ceres gmbh cn bio 140",
+    "quantity": "",
+    "name": [
+      "spirulina powder",
+      "spirulina powder powder",
+      "spirulina powder 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina tablet 500mg",
+    "quantity": "500mg",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "consolidation cargo flat washer rare earth magnet organic spirulina tablet 24 4784 basket nac psw",
+    "quantity": "",
+    "name": [
+      "spirulina tablet",
+      "spirulina tablet powder",
+      "spirulina tablet 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina powder used as nutritional supplement in production spirulina powder et dic corporation january 29 2028 grams package for research and testing 100",
+    "quantity": "2028 g",
+    "name": [
+      "spirulina powder used",
+      "spirulina powder used powder",
+      "spirulina powder used 1000kgs"
+    ]
+  },
+  {
+    "description": "spirulina capsule 60caps",
+    "quantity": "",
+    "name": [
+      "spirulina capsule",
+      "spirulina capsule powder",
+      "spirulina capsule 1000kgs"
+    ]
+  },
+  {
+    "description": "organic spirulina powder spirulina powder",
+    "quantity": "",
+    "name": [
+      "spirulina powder spirulina",
+      "spirulina powder spirulina powder",
+      "spirulina powder spirulina 1000kgs"
+    ]
+  }
+]
